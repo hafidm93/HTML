@@ -1,0 +1,74 @@
+{
+	"dir" : "ltr",
+	"lang" : "id",
+	"name" : "JanganLupaBahagia.com",
+	"scope" : "/",
+	"display" : "standalone",
+	"start_url" : "https://www.janganlupabahagia.com/",
+	"short_name" : "JLB Blog",
+	"theme_color" : "#00cec9",
+	"description" : "Blog info wisata backpacker indonesia, meliputi pendakian gunung, wisata alam, pantai, pulau serta info tips seputar wisata murah indonesia.",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : "",
+	"prefer_related_applications" : "false",
+	"icons" : [
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "200x200"
+		},
+		{
+			"src": "https://www.janganlupabahagia.com/favicon.ico",
+			"sizes": "16x16"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "57x57"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "60x60"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "76x76"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "114x114"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "120x120"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "180x180"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "32x32"
+		},
+		{
+			"src": "https://cdn.statically.io/img/1.bp.blogspot.com/-mUu1AJGa-lk/XbgKWjZC-LI/AAAAAAAACEs/_IkrXVKIhyILcqHM7s_40SHuYn51v28DwCLcBGAsYHQ/s200/Webp.net-resizeimage+%281%29.png",
+			"sizes": "96x96"
+		}],
+	"screenshots" : [],
+	"generated" : "true"
+}
